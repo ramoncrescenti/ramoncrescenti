@@ -55,7 +55,7 @@ Feel free to ask me anything!
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DavideCarvalho&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ramoncrescenti&&style=flat-square" align="center" />
 
 <!--
 **ramoncrescenti/ramoncrescenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
