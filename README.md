@@ -1,6 +1,6 @@
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-I'm Ramon, building my way to become a full-stack JavaScript developer. Currently freelancing and looking for opportunities.
+I'm Ramon, a Web Fullstack Development Graduate Student building my way to become a full-stack JavaScript developer. Currently freelancing and looking for opportunities.
 
 Feel free to ask me anything!
 
