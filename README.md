@@ -2,7 +2,7 @@
 
 I'm Ramon, a Web Fullstack Development Graduate Student building my way to become a full-stack JavaScript developer. Currently freelancing and looking for opportunities.
 
-Feel free to ask me anything!
+Feel free to ask me anything! 😄
 
 
 <br/>
