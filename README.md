@@ -13,6 +13,8 @@
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="40" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" height="40" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="Nest.js" height="40" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" height="40" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="40" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" height="40" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="CSharp" height="40" />
