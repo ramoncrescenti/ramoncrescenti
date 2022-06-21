@@ -1,6 +1,6 @@
-## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" height="20px" width="20px">
 
-#### 👨🏻‍💻 I'm Ramon, a Web Fullstack Development Graduate Student building my way to become a full-stack JavaScript developer. Currently freelancing and looking for opportunities. Feel free to ask me anything! 😄
+#### 👨🏻‍💻 I'm a Backend Software Engineer, building my way to become a full-stack developer. Passionate about old games decomp/disassembling. Feel free to ask me anything! 😄
 
 ### 🛠 My Skill Set  
   
